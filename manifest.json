@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.16",
+    "version":  "2.1.17",
     "target":  "HS01-4G-LTE",
     "size":  650400,
-    "sha256":  "0b99151b2563b5f4dd04522d6958fcfb4e4967f7d1f1ab5aeb4a96119516e021",
-    "url":  "https://raw.githubusercontent.com/sridhar03361/ZH-Home-Security-Firmware/refs/tags/v2.1.16/firmware.bin"
+    "sha256":  "22ba384316676b87d51a7bd205fb69c7c4e6e2521b695ff4ea78562387a8201d",
+    "url":  "https://raw.githubusercontent.com/sridhar03361/ZH-Home-Security-Firmware/refs/tags/v2.1.17/firmware.bin"
 }
